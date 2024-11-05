@@ -1,0 +1,9 @@
+Slots = {
+    PointSlot = 'Slot1',
+    NamekianSlot = 'Slot2',
+}
+
+
+------------------- Scripts starts here ------------------------
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ItzLost/Lost-Scripts/main/Final%20Stand/InfStat.lua'),true))()
